@@ -4,6 +4,8 @@
 
 本项目为补偿同济大学2024移动应用开发课程App Development with Swift认证考试的项目。
 
+项目地址：https://github.com/lostbefore/Sudoku-iOS-App
+
 ### 项目名称
 
 Sudoku-iOS-App
@@ -179,6 +181,9 @@ struct GridView: View {
   - 顶部是难度选择器，通过 `Picker` 控件实现，支持动态切换难度。
   - 中间是数独棋盘，由 `GridView` 组件实现。
   - 底部是按钮，用于检查用户输入。
+
+![](sudoku.png)
+
 - **交互细节**：
   - 初始数字为灰色背景，用户无法编辑。
   - 用户输入空格后，实时更新棋盘。
