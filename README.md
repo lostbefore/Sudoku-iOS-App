@@ -4,6 +4,8 @@
 
 本项目为补偿同济大学2024移动应用开发课程App Development with Swift认证考试的项目。
 
+项目仓库：https://github.com/lostbefore/Sudoku-iOS-App
+
 ### 项目名称
 
 Sudoku-iOS-App
